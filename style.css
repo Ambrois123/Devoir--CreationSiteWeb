@@ -1,6 +1,10 @@
-body {
+/*body {
     background-image: url(/bgimage.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}*/
+footer {
+    position: relative;
+    bottom: 0;
 }
